@@ -1,0 +1,219 @@
+{
+"admins": [
+"Kenzy_Resized"
+"Miroslav_Korda", 
+"Lonquzze_Escoreze", 
+"Eddie_Bronx", 
+"Matteo_Estebane", 
+"Fabio_Espada", 
+"Desperado_Hatte", 
+"Kohaku_Nagadzima", 
+"Duno_Passion", 
+"Courier_Chen", 
+"Andrew_Snoop", 
+"Giovanni_Remmarque", 
+"Thomas_Dilmore", 
+"Elizabeth_Hansson", 
+"Braga_Hatraited", 
+"Glen_East", 
+"Ronnie_Ramirez", 
+"Fearless_Apostol", 
+"Malfoy_Devourer", 
+"Butterfly_Reactive", 
+"Alya_Veys", 
+"Marsik_Mur", 
+"Senzi_Syozo", 
+"Paulion_East", 
+"Iratez_Fearless", 
+"Asterix_Regaled", 
+"Christian_Reynolds", 
+"Clewend_East", 
+"Thomas_Kraus", 
+"Attero_Resized", 
+"Adriano_Quinsado", 
+"Hugo_Lee", 
+"Kisomi_Kingsman", 
+"Fuze_Konig", 
+"Azrael_Inferno", 
+"Timousha_Escoreze", 
+"Djaster_Escoreze", 
+"Alexsio_Sheffield", 
+"Leonardo_Severide", 
+"Baroko_Expert" 
+],
+  "servers": [
+    {
+      "name": "Redfire RP",
+      "subname": "REDFIRE #1",
+      "ip": "80.66.82.87",
+      "port": "7777",
+      "players": "∞",
+      "maxPlayers": "900"
+    }
+  ], 
+  "servers_online_api": "http://2733205.ka509691.web.hosting-test.net/online.php",
+  "links_header": [
+    {
+      "icon": "global",
+      "name": "Наш сайт",
+      "url": "https://redfire.su"
+    },
+    {
+      "icon": "forum",
+      "name": "Форум",
+      "url": "https://forum.redfire.su"
+    },
+    {
+      "icon": "shop",
+      "name": "Магазин",
+      "url": "https://redfire.su/donate"
+    }
+  ],
+  "links_soc": [
+    {
+      "icon": "vk",
+      "url": "https://vk.com/redfiregame"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UCPGbEhsuOl8s9B-VmC0wluw"
+    }
+  ],
+  "super_news": {
+    "show": true,
+    "items": [
+      "• Для слабых ПК установите графику:",
+      "• Стандарт-плюс"
+    ]
+  },
+  "news": [
+	
+	{
+      "name": "Открываемся 15 августа в 18:00!<br>",
+      "date": "15.08.2023",
+      "url": "https://vk.com/redfiregame",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/123.jpg",
+      "desc": "По любым проблемам- напиши в ЛС группы!"
+    },
+	
+    {
+      "name": "У нас ЗБТ!<br>",
+      "date": "13.04.2023",
+      "url": "https://vk.com/redfiregame",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/ptiKI4PCTNI.jpg",
+      "desc": "Открытие обязательно состоится ;)"
+    }
+  ],
+  
+  "self": {
+    "hash": "95A24AF1FBBF03A4FA824178EEE9CD4DA7956A63931287F411289063BE9D945F",
+    "url": "http://mynameiswizz.site/update2.torrent"
+  },
+  "settings": {
+    "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
+  },
+  "faq": [
+    { "question": "Системные требования", "answer": "Мы учли пожелания многих игроков, сделав игру оптимизированной под слабые ПК. Системные требования точно такие же, как и у обычного, SA:MP. У нас есть 5 видов настроек графики(от слабой до топовой) и возможность оставить стандартную графику. Проблем со слабыми ПК - не возникнет." },
+    { "question": "После кнопки играть ничего не происходит", "answer": "Одна из частых проблем. Зайдите в Мои Документы/GTA San Andreas User Files/ и удалите gta_sa.set Также если у вас установлена графика, то при заходе около 5-15 секунд требуется для загрузки шейдеров, поэтому следует немного подождать." },
+    { "question": "Нарушена целостность ГТА", "answer": "Если вы удалили какие-то файлы или повредили какие-то, то это может стать проблемой запуска. Нажмите кнопку починить игру и он восстановит повреждённые файлы." },
+    { "question": "Белый экран при запуске лаунчера", "answer": "Поставьте совместимость в свойствах лаунчера с другими версиями Windows." },
+    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Если у вас уже был установлен лаунчер, то удаление осуществляется только через панель управления. Если не был установлен, то нажмите на ярлык установщика и далее на \"извлечь файлы\"." },
+    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
+  ],  
+  "game": {
+    "torrentUrl": "http://mynameiswizz.site/rel8.torrent",
+	"useSecondTorrent": false,
+	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel8.torrent",
+    "gameFolder": "REDFIRE",
+    "gameExe": "gta_sa.exe",
+    "keepSeeding": "0",   "enb": {
+      "dirName": "enb_config"
+    },
+    "entryCode": "3",
+    "version": "1.0.12",
+    "defaultEnb": "default2",
+    "encryptedFiles": [
+      "/data/gen/HANDLING.CFG",
+      "/data/gen/PEDS.IDE",
+      "/data/gen/VEHICLES.IDE",
+      "/models/map.ipl",
+      "/samp/custom.ide",
+	  "/data/dynamiczones.dat"
+    ],
+    "plugins": [
+      {
+        "name": "FPS-UNLOCK",
+        "code": "fpslimit",
+        "description": "Снимает лимит ФПС",
+        "filename": "fpslimit.asi",
+        "path": "/enb_config/plugins/fpslimit.asi",
+        "size": "7680"
+      },
+	   {
+        "name": "Nopostfx",
+        "code": "nopostfx",
+        "description": "Отключает постобработку и увеличивает ФПС(для слабых ПК). Игра станет тусклой.",
+        "filename": "nopostfx.asi",
+        "path": "/enb_config/plugins/nopostfx.asi",
+        "size": "8192"
+      },
+	  {
+        "name": "Widescreen",
+        "code": "widescreen",
+        "description": "Фикс для широкоформатных мониторов",
+        "filename": "widescreen.asi",
+        "path": "/enb_config/plugins/widescreen.asi",
+        "size": "65024"
+      },
+	   {
+        "name": "Fix Black Roads",
+        "code": "fixblackroads",
+        "description": "Исправляет чёрные полосы на дорогах в далеке",
+        "filename": "fixblackroads.asi",
+        "path": "/enb_config/plugins/fixblackroads.asi",
+        "size": "7168"
+      },
+	  {
+        "name": "SilentpatchSA",
+        "code": "silentpatchsa",
+        "description": "Исправляет некоторые баги GTA; возможность поставить 8х сглаживание. НЕСОВМЕСТИМ с графикой и плагином NoShadows(удалите его из папки)",
+        "filename": "silentpatchsa.asi",
+        "path": "/enb_config/plugins/silentpatchsa.asi",
+        "size": "237056"
+      },
+	  {
+        "name": "Framerate Vigilante",
+        "code": "FramerateVigil",
+        "description": "Исправляет ошибки высокого ФПС(торможение на ТС, плавание, включение сирены)",
+        "filename": "FramerateVigil.asi",
+        "path": "/enb_config/plugins/FramerateVigil.asi",
+        "size": "74752"
+      },
+	  {
+        "name": "Anti Crasher",
+        "code": "anticrasher037",
+        "description": "FIX некоторых ошибок",
+        "filename": "anticrasher037.asi",
+        "path": "/enb_config/plugins/anticrasher037.asi",
+        "size": "91136"
+      },
+	  {
+        "name": "Fog Distance",
+        "code": "fogdist",
+        "description": "Регулировка облаков(уменьшие дальности - увеличивает ФПС). Команда в игре - /fogdist",
+        "filename": "fogdist.asi",
+        "path": "/enb_config/plugins/fogdist.asi",
+        "size": "8704"
+      },
+	  {
+        "name": "Refresh Rate(Разблокировка Гц)",
+        "code": "refreshrate",
+        "description": "Снимает блокировку в 60 Гц, если Ваш монитор имеет большее кол-во Гц. (by DarkP1xel)",
+        "filename": "RefreshRateFixByDarkP1xel32.ASI",
+        "path": "/enb_config/plugins/RefreshRateFixByDarkP1xel32.ASI",
+        "size": "75264"
+      }
+    ]
+  },
+  "directXFileName": "dxwebsetup.exe"
+}
