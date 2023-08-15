@@ -1,6 +1,6 @@
 {
 "admins": [
-"Kenzy_Resized"
+"Kenzy_Resized",
 "Miroslav_Korda", 
 "Lonquzze_Escoreze", 
 "Eddie_Bronx", 
@@ -51,7 +51,7 @@
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "http://2733205.ka509691.web.hosting-test.net/online.php",
+  "servers_online_api": "https://mynameiswizz.site/online.php",
   "links_header": [
     {
       "icon": "global",
@@ -121,9 +121,9 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/rel8.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel8.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel8.torrent",
+	"secondTorrentUrl": "http://mynameiswizz.site/rel7.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
